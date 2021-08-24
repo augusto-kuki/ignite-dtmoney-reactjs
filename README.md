@@ -2,7 +2,7 @@
 
 ## Preview
 
-![](https://github.com/augusto-kuki/unform-reactjs-example/blob/master/src/assets/unform-reactjs-example.gif)
+![](https://github.com/augusto-kuki/ignite-dtmoney-reactjs/blob/main/src/assets/preview.gif)
 
 ## Para rodar:
 
